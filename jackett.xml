@@ -26,7 +26,7 @@
     Use just about any tracker with Sonarr
   </Overview>
   <Support>https://lime-technology.com/forum/index.php?topic=41543.0</Support>
-  <Registry>https://registry.hub.docker.com/u/deltagods/arch-jackett</Registry>
+  <Registry>https://registry.hub.docker.com/u/asukhadi/arch-jackett</Registry>
   <GitHub>https://github.com/asukhadi/arch-jackett</GitHub>
   <Repository>asukhadi/arch-jackett</Repository>
   <BindTime>true</BindTime>
@@ -60,6 +60,6 @@
     </Volume>
   </Data>
   <WebUI>http://[IP]:[PORT:9117]/</WebUI>
-  <Banner>https://raw.githubusercontent.com/sdesbure/docker-containers/master/images/jackett-banner.png</Banner>
-  <Icon>https://raw.githubusercontent.com/sdesbure/docker-containers/master/images/jackett-icon.png</Icon>
+  <Banner>https://raw.githubusercontent.com/asukhadi/docker-containers/master/images/jackett-banner.png</Banner>
+  <Icon>https://raw.githubusercontent.com/asukhadi/docker-containers/master/images/jackett-icon.png</Icon>
 </Containers>
