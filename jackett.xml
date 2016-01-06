@@ -26,9 +26,9 @@
     Use just about any tracker with Sonarr
   </Overview>
   <Support>https://lime-technology.com/forum/index.php?topic=41543.0</Support>
-  <Registry>https://hub.docker.com/r/deltagods/arch-jackett</Registry>
+  <Registry>https://registry.hub.docker.com/u/deltagods/arch-jackett</Registry>
   <GitHub>https://github.com/asukhadi/arch-jackett</GitHub>
-  <Repository>deltagods/arch-jackett</Repository>
+  <Repository>asukhadi/arch-jackett</Repository>
   <BindTime>true</BindTime>
   <Privileged>false</Privileged>
   <Networking>
